@@ -12,7 +12,7 @@ Pod::Spec.new do |s|
   s.swift_versions = '5.5'
   
   s.dependency 'SnapKit'
-  s.dependency '2.4.2'
+  s.dependency 'BmobSDK','2.4.2'
   s.dependency 'ObjectMapper', '~> 4.0.0'
   s.dependency 'SwiftyJSON', '5.0.0'
 

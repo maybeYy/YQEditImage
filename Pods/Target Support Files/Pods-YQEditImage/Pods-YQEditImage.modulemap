@@ -1,0 +1,6 @@
+framework module Pods_YQEditImage {
+  umbrella header "Pods-YQEditImage-umbrella.h"
+
+  export *
+  module * { export * }
+}

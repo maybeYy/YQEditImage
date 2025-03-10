@@ -1,0 +1,28 @@
+PODS:
+  - BmobSDK (2.4.2)
+  - ObjectMapper (4.0.0)
+  - SnapKit (5.7.1)
+  - SwiftyJSON (5.0.0)
+
+DEPENDENCIES:
+  - BmobSDK (= 2.4.2)
+  - ObjectMapper (~> 4.0.0)
+  - SnapKit
+  - SwiftyJSON (= 5.0.0)
+
+SPEC REPOS:
+  trunk:
+    - BmobSDK
+    - ObjectMapper
+    - SnapKit
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  BmobSDK: ca9dcfeb7b316f526acb42ce645676e75d7d9785
+  ObjectMapper: 11976ebce7970d09ef3dd343541ba863d13b1a73
+  SnapKit: d612e99e678a2d3b95bf60b0705ed0a35c03484a
+  SwiftyJSON: 36413e04c44ee145039d332b4f4e2d3e8d6c4db7
+
+PODFILE CHECKSUM: 00b44ed860a3eb1168e14433188694b2b0aaabfd
+
+COCOAPODS: 1.15.2

@@ -10,7 +10,7 @@ Pod::Spec.new do |s|
   s.ios.deployment_target = '13.0'
   s.source_files = 'YQEditImage/**/*'
   s.swift_versions = '5.5'
-  
+  s.static_framework = true
   s.dependency 'SnapKit'
   s.dependency 'BmobSDK','2.4.2'
   s.dependency 'ObjectMapper', '~> 4.0.0'
